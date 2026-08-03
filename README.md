@@ -151,8 +151,21 @@ To allow anyone on the internet to read your static pages, add a bucket policy.
 
 ## 👥 Development Team
 
-*   **Cloud Infrastructure Engineer**: *[Name / Role]*
+*   **Cloud Infrastructure Team**: *Lesego S and Reece*
 *   **UI/UX Designer & Lead Developer**: *Antigravity (Google DeepMind Team)*
+
+## Live Demo
+http://harbour-table-waterfront-project-alpha.s3-website.af-south-1.amazonaws.com/index.html
+
+---
+
+##Future Improvements
+
+Enable HTTPS using CloudFront.
+Register a custom domain.
+Add a contact form backed by AWS Lambda and Amazon API Gateway.
+Store reservations in Amazon DynamoDB.
+Add user authentication with Amazon Cognito.
 
 ---
 
