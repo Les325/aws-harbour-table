@@ -161,11 +161,11 @@ http://harbour-table-waterfront-project-alpha.s3-website.af-south-1.amazonaws.co
 
 ##Future Improvements
 
-Enable HTTPS using CloudFront.
-Register a custom domain.
-Add a contact form backed by AWS Lambda and Amazon API Gateway.
-Store reservations in Amazon DynamoDB.
-Add user authentication with Amazon Cognito.
+*Enable HTTPS using CloudFront.
+*Register a custom domain.
+*Add a contact form backed by AWS Lambda and Amazon API Gateway.
+*Store reservations in Amazon DynamoDB.
+*Add user authentication with Amazon Cognito.
 
 ---
 
