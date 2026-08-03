@@ -6,13 +6,13 @@ This project is built from scratch with pure frontend technologies (**HTML5**, *
 
 ---
 
-## 🌊 Project Description
+## Project Description
 
 **Harbour Table** offers a modern dining experience with fresh Atlantic seafood, premium local steaks, artisan gourmet burgers, and handcrafted cocktails. The website showcases a high-end luxury dark navy and gold aesthetic, glassmorphism UI accents, full responsiveness, scroll-triggered animations, interactive forms, a client-side user authentication system powered by browser Local Storage, and an integrated Dark Mode toggle.
 
 ---
 
-## ⭐ Features
+## Features
 
 *   **Responsive Luxury Design**: Fluid layouts optimized for Desktop, Tablet, and Mobile devices with a sticky glassmorphic navigation header.
 *   **Dark Mode Toggle**: Persistent dark/light theme switcher using browser Local Storage to remember user preference.
@@ -28,7 +28,7 @@ This project is built from scratch with pure frontend technologies (**HTML5**, *
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 *   **HTML5**: Structurally semantic layout (header, nav, main, section, footer, time, address).
 *   **CSS3**: Custom properties (CSS variables), grid/flexbox models, animations, media queries, and dark theme support.
@@ -36,7 +36,7 @@ This project is built from scratch with pure frontend technologies (**HTML5**, *
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```
 AWS Harbour Table/
@@ -75,7 +75,7 @@ AWS Harbour Table/
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 Since this is a fully static website, you do not need to install node packages or database servers.
 
@@ -88,7 +88,7 @@ Since this is a fully static website, you do not need to install node packages o
 
 ---
 
-## ☁️ AWS S3 Deployment Instructions
+## AWS S3 Deployment Instructions
 
 This website is designed for **Amazon S3 Static Website Hosting** with zero modification.
 
@@ -143,13 +143,13 @@ To allow anyone on the internet to read your static pages, add a bucket policy.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 *(Screenshots of desktop, tablet, and mobile views will be placed here after styling is finalized)*
 
 ---
 
-## 👥 Development Team
+## Development Team
 
 *   **Cloud Infrastructure Team**: *Lesego S and Reece*
 *   **UI/UX Designer & Lead Developer**: *Antigravity (Google DeepMind Team)*
@@ -169,6 +169,6 @@ http://harbour-table-waterfront-project-alpha.s3-website.af-south-1.amazonaws.co
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
