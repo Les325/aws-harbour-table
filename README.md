@@ -159,7 +159,7 @@ http://harbour-table-waterfront-project-alpha.s3-website.af-south-1.amazonaws.co
 
 ---
 
-##Future Improvements
+## Future Improvements
 
 * Enable HTTPS using CloudFront.
 * Register a custom domain.
