@@ -1,6 +1,6 @@
 # AWS Harbour Table
 
-A complete, modern, premium-quality static website for **Harbour Table**, a fictional high-end seafood and grill restaurant located at the V&A Waterfront in Cape Town, South Africa.
+A complete, modern, premium-quality static website for **Harbour Table**, a high-end seafood and grill restaurant located at the V&A Waterfront in Cape Town, South Africa.
 
 This project is built from scratch with pure frontend technologies (**HTML5**, **CSS3**, **Vanilla JavaScript**) and is optimized for direct deployment to **Amazon S3 Static Website Hosting**.
 
