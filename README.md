@@ -151,8 +151,7 @@ To allow anyone on the internet to read your static pages, add a bucket policy.
 
 ## Development Team
 
-*   **Cloud Infrastructure Team**: *Lesego S and Reece*
-*   **UI/UX Designer & Lead Developer**: *Antigravity (Google DeepMind Team)*
+*   **Web Development & Cloud Infrastructure Team**: *Lesego S and Reece*
 
 ## Live Demo
 http://harbour-table-waterfront-project-alpha.s3-website.af-south-1.amazonaws.com/index.html
@@ -167,8 +166,3 @@ http://harbour-table-waterfront-project-alpha.s3-website.af-south-1.amazonaws.co
 * Store reservations in Amazon DynamoDB.
 * Add user authentication with Amazon Cognito.
 
----
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
