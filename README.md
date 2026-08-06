@@ -145,7 +145,13 @@ To allow anyone on the internet to read your static pages, add a bucket policy.
 
 ## Screenshots
 
-*(Screenshots of desktop, tablet, and mobile views will be placed here after styling is finalized)*
+<img width="1440" height="702" alt="Screenshot 2026-07-15 at 00 34 19" src="https://github.com/user-attachments/assets/be35829c-c250-46f8-ad81-fc2e721e2eab" />
+
+<img width="1439" height="777" alt="Screenshot 2026-07-15 at 00 34 35" src="https://github.com/user-attachments/assets/b4c9efcd-21f2-4331-bbc0-2dd4a6f8f9e7" />
+
+<img width="1440" height="702" alt="Screenshot 2026-07-15 at 00 34 52" src="https://github.com/user-attachments/assets/1daabe70-b3d8-4ec8-b06b-5d6a5fa0f4bf" />
+
+<img width="1437" height="704" alt="Screenshot 2026-07-15 at 00 35 09" src="https://github.com/user-attachments/assets/6fa07544-8320-4973-9ccf-00a8dd01a214" />
 
 ---
 
